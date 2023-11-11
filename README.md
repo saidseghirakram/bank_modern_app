@@ -3,4 +3,4 @@
 <img src="./public/website.png">
 
 ## Get started : 
-### 1-Clone the repository:
+1-Clone the repository:
