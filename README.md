@@ -12,4 +12,7 @@ git clone https://github.com/saidseghirakram/bank_modern_app
 cd  bank_modern_app
 ```
 3. Install dependencies:
+```
+ npm install
+```
 
