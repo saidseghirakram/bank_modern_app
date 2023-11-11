@@ -6,9 +6,9 @@
 
 ## 🆕 Get started : 
 **1. Clone the repository:**
-```
+'''
 git clone https://github.com/saidseghirakram/bank_modern_app
-```
+'''
 **2. Navigate to repository directory:**
 ```
 cd  bank_modern_app
