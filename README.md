@@ -7,17 +7,17 @@
 ```
 git clone https://github.com/saidseghirakram/bank_modern_app
 ```
-2. Navigate to repository directory:
+**2. Navigate to repository directory:**
 ```
 cd  bank_modern_app
 ```
-3. Install dependencies:
+**3. Install dependencies:**
 ```
  npm install
 ```
 
 ## Running :
-1. Compile and hot-reload for development
+**1. Compile and hot-reload for development**
 ```
 npm run start
 ```
