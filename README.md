@@ -18,7 +18,7 @@ cd  bank_modern_app
  npm install
 ```
 
-## Running :
+## ✅ Running :
 **1. Compile and hot-reload for development**
 ```
 npm run start
