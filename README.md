@@ -16,3 +16,12 @@ cd  bank_modern_app
  npm install
 ```
 
+## Running :
+1. Compile and hot-reload for development
+```
+npm run start
+```
+## 👨🏻‍💻Built With:
+. React
+. Tailwind Css
+
